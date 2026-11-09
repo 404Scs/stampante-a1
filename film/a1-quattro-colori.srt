@@ -1,0 +1,43 @@
+1
+00:00:00,370 --> 00:00:03,865
+Domanda: 4 colori… 4 ugelli?
+
+2
+00:00:03,865 --> 00:00:06,145
+No. L'ugello è uno solo.
+
+3
+00:00:06,145 --> 00:00:08,020
+Le bobine sono 4.
+
+4
+00:00:08,876 --> 00:00:12,520
+Il filo parte dalla bobina 1 e arriva alla testina.
+
+5
+00:00:12,520 --> 00:00:15,628
+Per cambiare colore, una leva taglia il filo.
+
+6
+00:00:15,848 --> 00:00:19,500
+L'AMS lo tira indietro e riavvolge la bobina.
+
+7
+00:00:19,500 --> 00:00:22,089
+Poi spinge il filo della bobina 2.
+
+8
+00:00:22,089 --> 00:00:24,946
+Il colore vecchio esce dall'ugello e cade.
+
+9
+00:00:25,416 --> 00:00:27,746
+Ogni 5 strati, si ripete.
+
+10
+00:00:27,746 --> 00:00:30,318
+2, 3, 4.
+
+11
+00:00:31,438 --> 00:00:35,739
+Un ugello, 4 bobine: un bicchiere a 4 colori.
